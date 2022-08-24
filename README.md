@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Cruise Ride - GITHUB](https://github.com/Samjolas/cruise_ride)
-- Live Site URL: [Add live site URL here](https://samjolas.github.io/cruise_ride)
+- Solution URL: [QR-code - GITHUB](https://github.com/Samjolas/QR-code)
+- Live Site URL: [Add live site URL here](#)
 
 ## My process
 - Evaluate the design 
