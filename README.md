@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](images/Screenshot.png)
 
 
 ### Links
 
 - Solution URL: [QR-code - GITHUB](https://github.com/Samjolas/QR-code)
-- Live Site URL: [Add live site URL here](#)
+- Live Site URL: [Add live site URL here](https://samjolas.github.io/QR-code)
 
 ## My process
 - Evaluate the design 
