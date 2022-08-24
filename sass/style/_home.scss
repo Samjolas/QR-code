@@ -1,0 +1,32 @@
+@use 'variables' as a;
+
+.body {
+  position: relative;
+  height: 100vh;
+}
+
+.preview {
+  position: absolute;
+  top: 50%;left: 50%;
+  transform: translate(-50%,-50%);
+  width: 32.5rem;
+  height: 50rem;
+  border-radius: 2rem;
+  background: a.$color-bg-qr;
+  padding: 1.5rem;
+  display: grid;
+  &__qr {
+    border-radius: 2rem;
+  }
+  &__title {
+    font-size: a.$fs-main;
+    color: a.$color-main;
+    font-weight: a.$fw-700;
+    text-align: center;
+  }
+  &__content {
+    font-size: a.$fs-sub;
+    color: a.$color-sub;
+    text-align: center;
+  }
+}
